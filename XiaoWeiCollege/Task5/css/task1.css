@@ -1,0 +1,21 @@
+body {background: lightgray;}
+footer {text-align: center; background: black; color: white; height: 40px; line-height: 40px;}
+header{background-color: #333333; height: 60px; width: 100%; min-width: 700px;}
+header h1{line-height: 20px; float: left;}
+header ul {float: right;width: 380px;}
+header ul li {float: left;line-height: 30px;margin: 0 5px;}
+table {width: 100%; border-collapse: collapse;}
+td,th {padding: 5px;}
+article,aside {margin:15px; background: white; padding: 15px; border-bottom: solid 1px gray; border-right: solid 1px gray;}
+aside {width: 364px;position: absolute;right: 0; top:0;}
+textarea {rows:0; cols:0; width: 85%; text-align: left; height: 100px;}
+.imgDiv {border: solid 1px lightgray; text-align: center; width: 160px; margin: 0 0 20px 40px; float: left;}
+.tip {color: gray;}
+.formTable th {background: black; color: white; text-align: left;}
+.lastTR {background: lightslategrey;}
+.leftTd {text-align: right;}
+.wrap{margin: 0 auto; width: 100%;position: relative;min-width: 710px; overflow: hidden;}
+#submit {height: 40px; color: white; background: #0077FF;width: 100%;}
+#line {height: 40px; background: lightgray; width: 2px; margin-right: 10px; float: left; position: relative;top: -5px;}
+#mainLeft{margin-right: 404px;} 
+#article3{overflow: hidden;}
